@@ -2,7 +2,7 @@
 
 I'm Dove-white, a passionate and dedicated Frontend Developer, specializing in creating dynamic and user-friendly web applications. With a strong foundation in JavaScript, TypeScript, and React, I have honed my skills to deliver clean, efficient, and responsive designs. My proficiency in Javascript, HTML, and Tailwind CSS enables me to craft visually appealing interfaces focusing on usability and accessibility.
 
-![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=<Dove-white>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I'm Dove-white, a passionate and dedicated Frontend Developer, specializing in c
 - 🌐 Proud member of [Riskspot](https://www.linkedin.com/company/riskspot/), contributing to the tech community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind)](https://skillicons.dev)
 
 ## 🚀 My Expertise 🚀
 
