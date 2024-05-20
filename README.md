@@ -4,7 +4,7 @@ I'm Dove-white, a passionate and dedicated Frontend Developer, specializing in c
 <!--
 ![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
-![Dove-white's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dove-white's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
