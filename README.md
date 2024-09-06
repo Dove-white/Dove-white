@@ -30,7 +30,7 @@ I'm Dove-white, a passionate and dedicated Frontend Developer, specializing in c
 
  ## 🏆 Achievements
 
-- 🌟 Completed Gold 🥇 in Hackerrank 10 Days of JS 2023, 2🌟🌟 in 30 Days of Code, and 2🌟🌟 in Problem Solving  [Hackerrank](https://www.hackerrank.com/profile/dugbazahredeemer)
+- 5 stars (Gold) in Hackerrank 10 Days of JS 2023, 2 stars in 30 Days of Code, and 2 stars in Problem Solving  [Hackerrank](https://www.hackerrank.com/profile/dugbazahredeemer)
 
 
 ## 📬 Get in Touch
