@@ -35,7 +35,7 @@ I'm Dove-white, a passionate and dedicated Frontend Developer, specializing in c
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/redeemer-dugbazah-0137a72b1](https://www.linkedin.com/in/redeemer-dugbazah-0137a72b1/))
+- Connect with me on [Linkedin](https://www.linkedin.com/in/redeemer-dugbazah-0137a72b1)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
