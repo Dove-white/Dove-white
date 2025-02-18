@@ -37,6 +37,7 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 📫**Email**: dugbazahredeemer@gmail.com  
 🔗 **Portfolio**: [dove-portfolio.netlify.app](https://dove-portfolio.netlify.app/)  
 💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/redeemer-dugbazah-0137a72b1)  
+💼 **X**: [X](https://x.com/RedeemerDuu/)  
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
