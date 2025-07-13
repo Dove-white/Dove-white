@@ -12,7 +12,7 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 - 🌐 I am open to collaborating on exciting projects, whether you're a startup bringing an innovative idea to life or an established company looking to scale your digital presence. I aim to contribute my expertise and problem-solving skills to make a tangible impact.
 
 ## 💡 Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,next,redux,nodejs,express,mongodb,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,redux,tailwind,bootstrap,nodejs,express,mongodb,figma)](https://skillicons.dev)
 
 ## 🚀 My Expertise 🚀
 
