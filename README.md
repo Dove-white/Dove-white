@@ -1,4 +1,5 @@
 # Hi, I'm Dove-White! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Dove%20White&fontSize=40&fontColor=ffffff)
 
 🚀 **Full-Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js**  
 
@@ -6,11 +7,11 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 
 ### 📊 GitHub Stats
 
-![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Dove-white's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dove-white&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dove-white&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dove-white&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dove-white&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
