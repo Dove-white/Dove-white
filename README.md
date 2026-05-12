@@ -1,4 +1,3 @@
-# Hi, I'm Dove-White! 👋
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Dove-White!%20👋&fontSize=40&fontColor=ffffff)
 
 🚀 **Full-Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js | Express.js** 
@@ -7,11 +6,13 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 
 ### 📊 GitHub Stats
 
-![Dove-white's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dove-white&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dove-white&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dove-white&layout=compact&theme=tokyonight&hide_border=true)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dove-white&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Dove-white&theme=tokyonight&hide_border=true" width="400"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dove-white&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+</div>
 
 ---
 
