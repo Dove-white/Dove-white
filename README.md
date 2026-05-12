@@ -4,7 +4,7 @@
 
 I am a passionate and dedicated Full-Stack Developer, specializing in building modern, scalable, and user-friendly web and mobile applications. With expertise in JavaScript, TypeScript, React, Next.js, Node.js, and React Native, I craft intuitive and high-performance solutions that enhance user experience.
 
-![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 
 ## 🚀 About Me
 
