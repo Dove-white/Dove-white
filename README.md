@@ -1,7 +1,7 @@
 # Hi, I'm Dove-White! 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Dove%20White&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Dove-White!%20👋&fontSize=40&fontColor=ffffff)
 
-🚀 **Full-Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js**  
+🚀 **Full-Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js | Express.js** 
 
 I am a passionate and dedicated Full-Stack Developer, specializing in building modern, scalable, and user-friendly web and mobile applications. With expertise in JavaScript, TypeScript, React, Next.js, Node.js, and React Native, I craft intuitive and high-performance solutions that enhance user experience.
 
