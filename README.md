@@ -47,6 +47,10 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 
 ---
 
+## 🧩 Projects
+
+Most projects are kept in private repositories. Open to collaboration or sharing relevant work on request 🤓💪. 
+
 ## 🌍 Let's Connect! 
 
 📫**Email**: dugbazahredeemer@gmail.com  
@@ -55,4 +59,3 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 💼 **X**: [X](https://x.com/RedeemerDuu/)  
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
