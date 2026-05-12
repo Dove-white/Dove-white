@@ -4,7 +4,15 @@
 
 I am a passionate and dedicated Full-Stack Developer, specializing in building modern, scalable, and user-friendly web and mobile applications. With expertise in JavaScript, TypeScript, React, Next.js, Node.js, and React Native, I craft intuitive and high-performance solutions that enhance user experience.
 
-![Dove-white's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dove-white&show_icons=true&theme=vue-dark)
+### 📊 GitHub Stats
+
+![Dove-white's Stats](https://github-readme-stats.vercel.app/api?username=Dove-white&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dove-white&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dove-white&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🚀 About Me
 
@@ -31,6 +39,11 @@ I am a passionate and dedicated Full-Stack Developer, specializing in building m
 
 - 5 stars (Gold) in Hackerrank 10 Days of JS 2023, 2 stars in 30 Days of Code, and 2 stars in Problem Solving  [Hackerrank](https://www.hackerrank.com/profile/dugbazahredeemer)
 
+### 🏆 GitHub Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Dove-white&theme=tokyonight&no-frame=true&row=1)
+
+---
 
 ## 🌍 Let's Connect! 
 
